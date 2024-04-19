@@ -1,1 +1,1 @@
-# Quantum-Classical Hybrid Neural Network# xception-hybrid-quantum-classical
+# Quantum-Classical Hybrid Neural Network (Xception-Arch)
